@@ -1,5 +1,7 @@
 # Bluesney Movie App
 
+<img width="3404" height="2278" alt="image" src="https://github.com/user-attachments/assets/d5814d44-a0a9-4be4-a717-08b1f13970a8" />
+
 A simple movie listing web app built with **HTML**, **CSS**, and **JavaScript**.  
 I created this project to practice consuming a public movie API and manipulating the DOM to display dynamic content on the page.
 
