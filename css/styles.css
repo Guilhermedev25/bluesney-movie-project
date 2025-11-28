@@ -29,7 +29,7 @@ header img.logo{
     max-width: 150px;
     
 }
-/* Mobile adjustments (logo + search) */
+
 @media (max-width: 900px) {
     header{
         flex-direction: row;
@@ -153,4 +153,3 @@ main{
     }
 }
 
-/* nav-wrapper removed */
