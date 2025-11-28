@@ -1,4 +1,4 @@
-#🎥 Bluesney Movie App
+# Bluesney Movie App
 
 A simple movie listing web app built with **HTML**, **CSS**, and **JavaScript**.  
 I created this project to practice consuming a public movie API and manipulating the DOM to display dynamic content on the page.
